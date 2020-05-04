@@ -1,4 +1,7 @@
-@import "./background";
+body {
+  background-color: lightcoral;
+}
+
 body {
   font-size: 62.5%;
   box-sizing: border-box;
@@ -9,6 +12,7 @@ body {
   justify-content: center;
   align-items: center;
 }
+
 .block {
   height: 80vh;
   display: flex;
@@ -16,9 +20,13 @@ body {
   justify-content: center;
   align-items: center;
 }
+
 h1 {
   font-size: 4rem;
 }
+
 .image {
   height: 20rem;
 }
+
+/*# sourceMappingURL=/style.a6dae8f7.css.map */
